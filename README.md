@@ -35,11 +35,6 @@
 
 ## Awards
 
-<p align="center">
-  <a href="assets/awards/aish-smart-workathon-2026-silver.png"><img src="assets/awards/aish-smart-workathon-2026-silver.png" width="720" alt="제4회 AI 스마트워크톤 은상"></a><br>
-  <sub>제4회 AI 스마트워크톤 은상 · 2026</sub>
-</p>
-
 <table>
   <tr>
     <td align="center" width="25%"><a href="assets/awards/ksc-2025-encouragement.jpg"><img src="assets/awards/ksc-2025-encouragement.jpg" width="180" alt="KSC 2025 장려상"></a><br><sub>KSC 2025 장려상</sub></td>
