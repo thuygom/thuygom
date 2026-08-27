@@ -1,8 +1,14 @@
+<img align="right" width="150" src="assets/profile/kim-jeonghun.jpg" alt="김정훈 프로필 사진">
+
 # 김정훈 · Jeonghun Kim
 
 **AI Researcher · ㈜이즈파크 R&D Center**
 
 멀티모달 모델 연구와 LLM/VLM 학습, AI 기능 구현 및 GPU 서빙을 하고 있습니다.
+
+[Portfolio](https://portfolio.jhkim3ispark.work) · [TieMing Demo](https://tieming.jhkim3ispark.work)
+
+<br clear="right">
 
 <table>
   <tr align="center">
@@ -12,8 +18,6 @@
     <td><strong>3건</strong><br><sub>국가·기술 자격</sub></td>
   </tr>
 </table>
-
-[Portfolio](https://portfolio.jhkim3ispark.work) · [TieMing Demo](https://tieming.jhkim3ispark.work)
 
 ## Work
 
@@ -47,4 +51,9 @@
 
 ## Certifications
 
-`SW개발 L5 국가자격` · `정보처리산업기사` · `리눅스마스터 2급`
+<table>
+  <tr>
+    <td align="center" width="30%"><a href="assets/certifications/sw-development-l5-excellence.jpg"><img src="assets/certifications/sw-development-l5-excellence.jpg" width="220" alt="SW개발 L5 과정 우수 수료 상장"></a><br><sub>SW개발 L5 과정 우수 수료</sub></td>
+    <td><strong>SW개발 L5 국가자격</strong><br>정보처리산업기사<br>리눅스마스터 2급</td>
+  </tr>
+</table>
