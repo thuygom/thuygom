@@ -6,7 +6,7 @@
 
 멀티모달 모델 연구와 LLM/VLM 학습, AI 기능 구현 및 GPU 서빙을 하고 있습니다.
 
-[Portfolio](https://portfolio.jhkim3ispark.work) · [TieMing Demo](https://tieming.jhkim3ispark.work)
+[Portfolio](https://portfolio.jhkim3ispark.work) · [TieMing Demo](https://portfolio-tieming.jhkim3ispark.work)
 
 <br clear="right">
 
