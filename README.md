@@ -4,7 +4,7 @@
 
 **AI Researcher · ㈜이즈파크 R&D Center**
 
-멀티모달 모델 연구와 LLM/VLM 학습, AI 기능 구현 및 GPU 서빙을 하고 있습니다.
+이즈파크 R&D Center에서 AI 관계 비서 타이밍(TieMing)을 개발합니다. 명함 OCR, 한국어 음성 처리, 자연어 데이터 조회를 담당합니다. 모델을 평가하고 추론 API를 구현해 GPU 환경에 배포합니다.
 
 [Portfolio](https://portfolio.jhkim3ispark.work) · [TieMing Demo](https://portfolio-tieming.jhkim3ispark.work)
 
@@ -19,9 +19,19 @@
   </tr>
 </table>
 
+## 새 서비스 · 타이밍(TieMing)
+
+[![타이밍 플레이스토어 대표 그래픽. 고객 정보는 한곳에, 다음 연락은 AI가 먼저.](assets/tieming/play-store-cover.png)](./TieMing.md)
+
+타이밍은 명함·미팅·통화·메일에 흩어진 기록을 고객별로 정리합니다. 미팅 전에는 지난 대화와 약속을 보여주고, 미팅 뒤에는 녹음에서 요약과 할 일을 뽑아 다음 연락을 돕습니다.
+
+**애플리케이션만 설치해도 CRM증정!**
+
+[공식 서비스 소개](https://tieming.ispark.kr/) · [타이밍 웹으로 열기](https://tieming.ai/app1/home) · [기능과 화면 보기](./TieMing.md)
+
 ## Work
 
-- **TieMing** — Writing·Web Search·OCR·Speech·멀티턴 비서 AI
+- **[TieMing](./TieMing.md)** — 명함 OCR, 회의 음성 처리, 고객 데이터 자연어 조회 개발
 - **GomOCR** — 4.77B VLM QLoRA 학습·평가·GPU 데모
 - **Enterprise Text-to-SQL** — schema grounding 구현·특허 출원 및 심사청구
 
